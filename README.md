@@ -4,7 +4,7 @@
 
 Presentation given at the [Silicon Valley ReactJS Meetup](https://www.meetup.com/Silicon-Valley-ReactJS-Meetup/events/232236845/) on 17 August 2016.
 
-Slides [available on Speaker Deck](https://speakerdeck.com/wincent/relay-2-simpler-faster-more-predictable) (lower-quality, based on rendered PDF) and also [on GitHub](https://wincent.github.io/relay-2-simpler-faster-more-predictable) (higher-quality, HTML-based, built for current Chrome but may work on other browsers).
+Slides [available on Speaker Deck](https://speakerdeck.com/wincent/relay-2-simpler-faster-more-predictable) (lower-quality, based on rendered PDF) and also [on GitHub](https://wincent.github.io/relay-2-simpler-faster-more-predictable/#2) (higher-quality, HTML-based, built for current Chrome but may work on other browsers; also, see the [presenter view](https://wincent.github.io/relay-2-simpler-faster-more-predictable/?presenter#2)).
 
 The slides as presented use Freight Sans Pro as then main font. This is a non-free commercially available font; the slides fall back to a generic "sans-serif" if Freight Sans Pro is not installed on your system.
 
